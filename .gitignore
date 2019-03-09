@@ -1,0 +1,6 @@
+node_modules/
+.log/
+.history/
+.github/
+yarn-error.log
+.vscode/
